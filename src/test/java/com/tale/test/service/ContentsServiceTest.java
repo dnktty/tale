@@ -14,6 +14,7 @@ public class ContentsServiceTest extends BaseTest {
     @Inject
     private ContentsService contentsService;
 
+
     @Test
     public void testGetContents() {
         // TODO

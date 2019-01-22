@@ -20,6 +20,11 @@
     </properties>
 
     <dependencies>
+        <dependency>
+            <groupId>com.qiniu</groupId>
+            <artifactId>qiniu-java-sdk</artifactId>
+            <version>7.2.4</version>
+        </dependency>
         <!-- mvc -->
         <dependency>
             <groupId>com.bladejava</groupId>
